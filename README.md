@@ -1,12 +1,12 @@
-# JavaScript Learning 🚀
+# 🚀 JavaScript Learning Journey
 
-Welcome to my JavaScript learning repository.
+Welcome to my **JavaScript Learning** repository!
 
-This repository contains all the concepts, practice questions, and mini-projects I build while learning JavaScript.
+This repository documents my journey of learning JavaScript from the basics to advanced concepts. It contains topic-wise examples, practice questions, coding challenges, and mini projects that I build while learning.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Learning Roadmap
 
 - ✅ Variables
 - ✅ Operators
@@ -15,22 +15,97 @@ This repository contains all the concepts, practice questions, and mini-projects
 - ⏳ Functions
 - ⏳ Arrays
 - ⏳ Objects
-- ⏳ DOM
+- ⏳ DOM Manipulation
 - ⏳ Events
-- ⏳ ES6
-- ⏳ Async JavaScript
+- ⏳ ES6+
+- ⏳ Asynchronous JavaScript
+- ⏳ APIs & Fetch
+- ⏳ Mini Projects
 
 ---
 
-## 💻 Tech Stack
+## 📁 Repository Structure
+
+```
+JavaScript-Learning
+│
+├── 01-Variables
+├── 02-Operators
+├── 03-Conditionals
+├── 04-Loops
+├── 05-Functions
+├── 06-Arrays
+├── 07-Objects
+├── 08-DOM
+├── 09-Events
+├── 10-ES6
+├── 11-Async-JS
+├── 12-Projects
+└── README.md
+```
+
+---
+
+## 🛠️ Tech Stack
 
 - HTML5
 - JavaScript (ES6+)
 - VS Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 
-Build a strong JavaScript foundation by practicing concepts daily and creating projects.
+- Learn JavaScript from fundamentals to advanced concepts.
+- Practice every concept with examples.
+- Solve coding challenges regularly.
+- Build real-world mini projects.
+- Maintain a consistent GitHub contribution history.
+
+---
+
+## 📌 Learning Method
+
+Each topic contains:
+
+- 📖 Concept explanation
+- 💻 Code examples
+- 📝 Practice questions
+- 🚀 Hands-on implementation
+- 📄 Topic-specific README
+
+---
+
+## 📈 Progress
+
+| Topic            | Status |
+| ---------------- | :----: |
+| Variables        |   ✅   |
+| Operators        |   ✅   |
+| Conditionals     |   ✅   |
+| Loops            |   ⏳   |
+| Functions        |   ⏳   |
+| Arrays           |   ⏳   |
+| Objects          |   ⏳   |
+| DOM              |   ⏳   |
+| Events           |   ⏳   |
+| ES6+             |   ⏳   |
+| Async JavaScript |   ⏳   |
+| Projects         |   ⏳   |
+
+---
+
+## 🌟 Why this Repository?
+
+This repository is my personal JavaScript handbook. It helps me:
+
+- Revise concepts quickly.
+- Track my learning progress.
+- Practice coding consistently.
+- Showcase my JavaScript journey on GitHub.
+
+---
+
+### ⭐ If you find this repository helpful, consider giving it a star!
