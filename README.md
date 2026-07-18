@@ -86,7 +86,7 @@ Each topic contains:
 | Operators        |   ✅   |
 | Conditionals     |   ✅   |
 | Loops            |   ✅   |
-| Functions        |   ⏳   |
+| Functions        |   ✅   |
 | Arrays           |   ⏳   |
 | Objects          |   ⏳   |
 | DOM              |   ⏳   |
