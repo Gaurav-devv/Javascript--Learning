@@ -85,7 +85,7 @@ Each topic contains:
 | Variables        |   ✅   |
 | Operators        |   ✅   |
 | Conditionals     |   ✅   |
-| Loops            |   ⏳   |
+| Loops            |   ✅   |
 | Functions        |   ⏳   |
 | Arrays           |   ⏳   |
 | Objects          |   ⏳   |
