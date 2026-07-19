@@ -17,21 +17,41 @@
 //   }
 // }
 
-//SIMPLE PASSWORD CHECKER[FIXED ATTEMPTS]
+// //SIMPLE PASSWORD CHECKER[FIXED ATTEMPTS]
 
-let password = "alpha";
-let noOfAttempt = 0;
-let userPassword = null;
+// let password = "alpha";
+// let noOfAttempt = 0;
+// let userPassword = null;
 
-while (password !== userPassword && noOfAttempt < 3) {
-  userPassword = prompt("Enter password:");
-  noOfAttempt++;
+// while (password !== userPassword && noOfAttempt < 3) {
+//   userPassword = prompt("Enter password:");
+//   noOfAttempt++;
 
-  if (password == userPassword) {
-    alert("Congratulations you password is correct");
-  } else if (noOfAttempt >= 3) {
-    alert("Your attempt is over");
-  } else {
-    alert("Your password is in correct, please try again");
+//   if (password == userPassword) {
+//     alert("Congratulations you password is correct");
+//   } else if (noOfAttempt >= 3) {
+//     alert("Your attempt is over");
+//   } else {
+//     alert("Your password is in correct, please try again");
+//   }
+// }
+
+// // FACTORIAL OF A NUMBER
+
+// let n = 7;
+// let fact = 1;
+// for (let i = 1; i <= n; i++) {
+//   fact *= i;
+// }
+// console.log("factorial = ", fact);
+
+// Pattern
+let n = 5;
+for (i = 1; i <= n; i++) {
+  let str = "";
+  for (let j = 1; j <= i; j++) {
+    str = str + j + " ";
   }
+  console.log(str);
 }
+
