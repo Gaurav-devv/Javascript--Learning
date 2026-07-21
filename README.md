@@ -11,8 +11,8 @@ This repository documents my journey of learning JavaScript from the basics to a
 - ✅ Variables
 - ✅ Operators
 - ✅ Conditionals
-- ⏳ Loops
-- ⏳ Functions
+- ✅ Loops
+- ✅ Functions
 - ⏳ Arrays
 - ⏳ Objects
 - ⏳ DOM Manipulation
@@ -87,7 +87,7 @@ Each topic contains:
 | Conditionals     |   ✅   |
 | Loops            |   ✅   |
 | Logic Building   |   ✅   |
-| Functions        |   ⏳   |
+| Functions        |   ✅   |
 | Arrays           |   ⏳   |
 | Objects          |   ⏳   |
 | DOM              |   ⏳   |
